@@ -1,14 +1,18 @@
 Gorjan Bileski 213029
+
 git 4
 mkdir SI_2024_lab1_223065
 cd SI_2024_lab1_223065
 git init
+
 5
 git remote add origin https://github.com/bileski26/SI_2024_lab1_213029.git
+
 6
 echo Gorjan Bileski 213029 >> README.md
 git add README.md
 git commit -m 'Initial commit'
+
 7 
 git add SILab1_2.java
 git add SILab1_1.java
