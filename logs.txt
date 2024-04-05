@@ -1,0 +1,12 @@
+commit 7d5dee3c8b1c2e91432e0b24a1b955291dbbd64d (HEAD -> master, origin/master, origin/bug2, origin/bug1, bug2, bug1)
+Author: bileski26 <bileskigorjan@yahoo.com>
+Date:   Fri Apr 5 17:13:14 2024 +0200
+
+    Add starter code
+
+commit a10a9deee2ea4d985a811f74ca890f1b0f36737e
+Author: bileski26 <bileskigorjan@yahoo.com>
+Date:   Fri Apr 5 17:10:07 2024 +0200
+
+    Initial commit
+
