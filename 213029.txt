@@ -74,6 +74,7 @@ git push origin master
 
 22
 git checkout bug2
+
 23
 git rebase master
 git add SILab1Main.java" .
